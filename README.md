@@ -1,6 +1,6 @@
 # Insomnia-Arduino-GPS-module
 ## GPS module i use to work:
-![gps](https://cdn.shopify.com/s/files/1/2187/3161/products/Ublox_NEO-6M_GPS_UART_Module_Breakout_with_Antenna_2_1024x.png?v=1571708736, "GBS module NEO-6M")
+![gps](https://cdn.shopify.com/s/files/1/2187/3161/products/Ublox_NEO-6M_GPS_UART_Module_Breakout_with_Antenna_2_1024x.png?v=1571708736, "GPS module NEO-6M")
 ## The microcontroller I use to work:
 ![arduino nano](https://http2.mlstatic.com/D_NQ_NP_749009-MLA49705588229_042022-O.jpg, "Arduino Nano")
 ## Description:
