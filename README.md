@@ -13,6 +13,6 @@ Thanks to this module connected to arduino nano via i2c protocol, I received the
 + Longitude and latitude
 + and others.
 ## Main purpose:
-I connected this sensor to implement it in my  project Smart  GPS tracker for dogs. The data obtained from this module will help in tracking the location of the animal and its distance to a specific target set by the user.
+I connected this sensor to implement it in my Smart GPS Tracker for Dogs project. The data obtained from this module will help to track the location of the animal, its activity and distance to a specific target set by the user.
 ## Contacts 
 **Demian Folyush - [Telegram](https://t.me/Empatychnyi)**
